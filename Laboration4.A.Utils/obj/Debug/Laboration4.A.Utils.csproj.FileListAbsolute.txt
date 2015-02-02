@@ -1,0 +1,5 @@
+C:\Users\Gedoc\Documents\Visual Studio 2013\Projects\lab 4\Laboration4.A.Utils\bin\Debug\Laboration4.A.Utils.dll
+C:\Users\Gedoc\Documents\Visual Studio 2013\Projects\lab 4\Laboration4.A.Utils\bin\Debug\Laboration4.A.Utils.pdb
+C:\Users\Gedoc\Documents\Visual Studio 2013\Projects\lab 4\Laboration4.A.Utils\obj\Debug\Laboration4.A.Utils.csprojResolveAssemblyReference.cache
+C:\Users\Gedoc\Documents\Visual Studio 2013\Projects\lab 4\Laboration4.A.Utils\obj\Debug\Laboration4.A.Utils.dll
+C:\Users\Gedoc\Documents\Visual Studio 2013\Projects\lab 4\Laboration4.A.Utils\obj\Debug\Laboration4.A.Utils.pdb
