@@ -15,6 +15,7 @@ namespace Laboration4.A
 
         public void Initialize()
         {
+            //testing this commit thing!
             Random random = new Random();
             _number = random.Next(1, 100);
             _count = 0;

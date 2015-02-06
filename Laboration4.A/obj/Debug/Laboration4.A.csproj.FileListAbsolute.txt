@@ -7,3 +7,6 @@ C:\Users\Gedoc\Documents\Visual Studio 2013\Projects\lab 4\Laboration4.A\bin\Deb
 C:\Users\Gedoc\Documents\Visual Studio 2013\Projects\lab 4\Laboration4.A\bin\Debug\Laboration4.A.Utils.pdb
 C:\Users\Gedoc\Documents\Visual Studio 2013\Projects\lab 4\Laboration4.A\obj\Debug\Laboration4.A.exe
 C:\Users\Gedoc\Documents\Visual Studio 2013\Projects\lab 4\Laboration4.A\obj\Debug\Laboration4.A.pdb
+C:\Code\lab 4\Laboration4.A\bin\Debug\Laboration4.A.exe.config
+C:\Code\lab 4\Laboration4.A\obj\Debug\Laboration4.A.exe
+C:\Code\lab 4\Laboration4.A\obj\Debug\Laboration4.A.pdb
